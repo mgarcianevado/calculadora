@@ -9,3 +9,9 @@ En primer lugar definimos las tareas de la historia estandar
 RESTA
 Realizamos los algoritmos necesarios para realizar una resta entre dos numeros.
 
+
+En primer lugar definimos las tareas de la historia estandar
+
+MULTIPLICAR
+Vamos a desarrollar un algoritmo para multiplicar dos números entre si.
+
