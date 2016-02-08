@@ -1,1 +1,4 @@
 En primer lugar definimos las tareas de la historia estandar
+
+RESTA
+Realizamos los algoritmos necesarios para realizar una resta entre dos numeros.
