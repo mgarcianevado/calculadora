@@ -1,4 +1,3 @@
-
 En primer lugar definimos las tareas de la historia estandar.
 
 SUMA
@@ -14,4 +13,9 @@ En primer lugar definimos las tareas de la historia estandar
 
 MULTIPLICAR
 Vamos a desarrollar un algoritmo para multiplicar dos números entre si.
+
+En primer lugar definimos las tareas de la historia estandar
+
+DIVISION
+Vamos a crear un algoritmo que divida dos numeros entre si.
 
