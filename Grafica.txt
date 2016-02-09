@@ -1,0 +1,4 @@
+Preparamos las tareas de la historia grafica
+
+OPERACIONES
+Realizamos los algoritmos necesarios para la representacion grafica de las diferentes funciones
