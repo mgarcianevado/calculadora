@@ -1,1 +1,4 @@
 En primer lugar definimos las tareas de la historia cientifica
+
+COSENO
+Hemos desarrolado el algoritmo necesario para calcular el coseno de un numero
